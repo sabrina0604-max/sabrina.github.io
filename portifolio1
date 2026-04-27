@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Planos|Academia</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="menu">
+            <nav class="nav-bar">
+                <img src="img/OIP.webp" alt="logo academia" class="logo"/>
+                <ul class="nav-bar-itens">
+                    <li>
+                        <a href="#">Home</a>
+                    </li>
+                    <li>
+                        <a href="#" class="aba-aberta">Planos</a>
+                    </li>
+                    <li>
+                        <a href="#">Suporte</a>
+                    </li>
+                    <li>
+                        <a href="#">Contato</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <main>
+            <section class="planos-container">
+            <h1>Escolha seu plano</h1>
+            <div class="planos">
+
+                <div class="plano">
+                    <h2>Basica</h2>
+                    <ul class="assinatura">
+                    <li>R$50,00<span class="valor">/mês</span></li>
+                    <li>Todas as unidades</li>
+                    <li>Aplicativo de exercicio</li>
+                    </ul>
+                    <div class="btn">
+                        <a href="#">Assine já</a>
+                    </div>
+                </div>
+
+                <div class="plano">
+                    <h2>Pro</h2>
+                    <ul class="assinatura">
+                    <li>R$70,00<span class="valor">/mês</span></li>
+                    <li>Todas as unidades</li>
+                    <li>Aplicativo de exercicio</li>
+                    <li>Personal 1x na semana</li>
+                    </ul>
+                    <div class="btn">
+                        <a href="#">Assine já</a>
+                    </div>
+                </div>
+
+                <div class="plano">
+                    <h2>premium</h2>
+                    <ul class="assinatura">
+                    <li>R$90,00<span class="valor">/mês</span></li>
+                    <li>Todas as unidades</li>
+                    <li>Aplicativo de exercicio</li>
+                    <li>Personal 2x na semana</li>
+                    <li>Desconto em suplementos</li>
+                    </ul>
+                    <div class="btn">
+                        <a href="#">Assine já</a>
+                    </div>
+                </div>
+            </div>
+    
+            </section>
+        </main>
+
+    </div>
+    
+</body>
+</html>
