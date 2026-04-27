@@ -68,7 +68,7 @@ body{
 
 
 main{
-    background-image:url("img/selfit.webp");
+    background-image:url("./img/selfit.webp");
     height: 868px;
     background-size: cover;
     background-position: center;
