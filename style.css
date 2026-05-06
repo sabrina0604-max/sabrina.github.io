@@ -68,7 +68,7 @@ body{
 
 
 main{
-    background-image:url("./img/academia.jpg");
+    background-image:url("img/academia.jpg");
     height: 868px;
     background-size: cover;
     background-position: center;
